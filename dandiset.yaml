@@ -37,7 +37,7 @@ assetsSummary:
   - ProcessingModule
 citation: Soliman, Sherif; Lee, Brian; Allen Institute for Brain Science; National
   Institute of Mental Health; Kalmbach, Brian; Dalley, Rachel; Lein, Ed (2024) 20240331_AIBS_Patchseq_nonhuman_primate
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000934/draft
+  (Version 0.240315.1754) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000934/0.240315.1754
 contributor:
 - affiliation: []
   email: sherif.soliman@alleninstitute.org
@@ -92,8 +92,9 @@ contributor:
 dateCreated: '2024-03-06T00:31:51.486357+00:00'
 datePublished: '2024-03-15T17:54:55.361361+00:00'
 description: HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2024)
+doi: 10.48324/dandi.000934/0.240315.1754
 ethicsApproval: []
-id: DANDI:000934/draft
+id: DANDI:000934/0.240315.1754
 identifier: DANDI:000934
 keywords:
 - Patch-seq
@@ -102,7 +103,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000934/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000934/0.240315.1754/assets.yaml
 name: 20240331_AIBS_Patchseq_nonhuman_primate
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
@@ -124,6 +125,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.6
 studyTarget:
 - Multimodal classifcation of cell types in the non-human primate.
-url: https://dandiarchive.org/dandiset/000934/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000934/0.240315.1754
+version: 0.240315.1754
 wasGeneratedBy: []
